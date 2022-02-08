@@ -2,9 +2,6 @@
 #EXTINF:6,TV 8 Moldova
 http://212.0.215.106:80/TV8/playlist.m3u8
 
-#EXTINF:6,TVC 21
-http://212.0.215.106:80/TVC21/playlist.m3u8
-
 #EXTINF:7,JurnalTV
 http://212.0.215.106:80/JurnalTV/playlist.m3u8
 
