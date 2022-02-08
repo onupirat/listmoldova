@@ -127,9 +127,6 @@ http://212.0.215.106/OrheiTV/mpegts
 #EXTINF: -1,Televisiunea Centrala
 http://212.0.215.106/EuroTV/mpegts
 
-#EXTINF: -1,Soroca tv
-http://212.0.215.106/SorTV/mpegts
-
 #EXTINF: -1,A tv gagauzia
 http://212.0.215.106/ATV/mpegts
 
