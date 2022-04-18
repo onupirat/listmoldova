@@ -160,6 +160,9 @@ http://212.0.215.106/RomaniaTV/mpegts
 #EXTINF: -1,TVR
 http://212.0.215.106/TVR/index.m3u8
 
+#EXTINF:-1 group-title="Молдова",NTS
+http://5.56.77.9:50000
+
 #EXTINF: -1,Minimax TV
 http://212.0.215.106/Minimax/mpegts
 
