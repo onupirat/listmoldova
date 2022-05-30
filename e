@@ -8,9 +8,6 @@ http://212.0.215.106:80/JurnalTV/playlist.m3u8
 #EXTINF:6,Pro TV
 http://212.0.215.106:80/ProTV/playlist.m3u8
 
-#EXTINF:-1,Euronews
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_1m.m3u8
-
 #EXTINF:-1,Moldova 1
 #EXTGRP:Moldova
 http://212.0.209.209:1935/live/MoldovaUnu1/playlist.m3u8
@@ -34,9 +31,6 @@ http://91.230.214.75/LIVE/3/2000.m3u8
 #EXTINF:5,Canal 5
 http://212.0.215.106:80/Canal5/playlist.m3u8
 
-#EXTINF:-1,TVR Moldova HD
-#EXTGRP:Moldova
-https://mn-nl.mncdn.com/tvrmoldova_new/smil:tvrmoldova_new.smil/playlist.m3u8
 
 #EXTINF:-1,Vocea Basarabiei
 #EXTGRP:Moldova
@@ -73,7 +67,7 @@ http://212.0.215.106/SorTV/mpegts
 #EXTINF: -1,PEH TB MOLDOVA
 http://212.0.215.106/PEHTB/mpegts
 
-#EXTINF: -1,EuroTV
+#EXTINF: -1,TV6
 http://212.0.215.115:80/EuroTV/mpegts
 
 #EXTINF:0,Noroc TV
@@ -97,8 +91,6 @@ http://212.0.215.115:80/ZonaM/mpegts
 #EXTINF: -1,Gurinel TV
 http://212.0.215.115:80/Gurinel/mpegts
 
-#EXTINF:0,Vocea Basarabiei TV
-http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 
 #EXTINF:-1,TEZAUR FOLC
 http://77.89.221.150/tezaur/index.m3u8
@@ -112,20 +104,11 @@ http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_2.m3u8
 #EXTINF:-1 ,РТР Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
 
-#EXTINF: -1,Canal Regional
-http://212.0.215.106/Regional/mpegts
-
-#EXTINF: -1,Domasnii
-http://212.0.215.106/SET/mpegts
-
 #EXTINF: -1,TVC 21
 http://212.0.215.106/TVC21/mpegts
 
 #EXTINF: -1,Orhei TV
 http://212.0.215.106/OrheiTV/mpegts
-
-#EXTINF: -1,Televisiunea Centrala
-http://212.0.215.106/EuroTV/mpegts
 
 #EXTINF: -1,A tv gagauzia
 http://212.0.215.106/ATV/mpegts
@@ -145,8 +128,6 @@ http://212.0.215.106/OrizontTV/mpegts
 #EXTINF: -1,Mир
 http://212.0.215.106/Mir/mpegts
 
-#EXTINF: -1,Pro TV Chisinau
-http://212.0.215.106/ProTV/mpegts
 
 #EXTINF: -1,10 TV
 http://212.0.215.106/10TV/mpegts
@@ -169,8 +150,6 @@ http://212.0.215.106/Minimax/mpegts
 #EXTINF: -1,Favorit TV
 http://212.0.215.106/Favorit/mpegts
 
-#EXTINF: -1,Gurinel
-http://212.0.215.106/Gurinel/mpegts
 
 #EXTINF: -1,Ru TV Moldova
 http://212.0.215.106/RuTV/mpegts
@@ -181,10 +160,5 @@ http://212.0.215.106/UTV/mpegts
 #EXTINF: -1,TV axial
 http://212.0.215.106/AxialTV/mpegts
 
-#EXTINF:-1,Drochia TV
-https://hls.drochia.tv/tv/web.m3u8
-
-#EXTINF:-1,Noroc TV
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 
 
